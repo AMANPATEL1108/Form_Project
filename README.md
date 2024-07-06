@@ -1,5 +1,9 @@
 # React & Tailwind CSS Starter Pack
 
+
+![Screenshot 2024-07-06 064549](https://github.com/AMANPATEL1108/Form_Project/assets/108643338/4d83008d-69be-4a58-82a9-a0fb978b828e)
+
+
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
 ## Usage
